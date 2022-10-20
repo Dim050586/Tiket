@@ -5,7 +5,7 @@ public class Tiket {
         byte x = 20;
 
 
-        System.out.println("Вам начисленно" + (tiket/x) + "милль(и)" );
+        System.out.println("Вам начисленно: " + (tiket/x) + " милль(и)" );
     }
 
 }
